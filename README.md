@@ -7,7 +7,7 @@ I'm a former Product designer now transitioning into Data Analytics. With experi
 ## 📚Projects
 I have built hands on projects using tools like Excel, SQL and Power BI to analyse real world datasets. Please see the projects below:
 
-[Employee Turnover Analysis](https://www.example.com)
+[Employee Turnover Analysis](https://github.com/Abiwsule/Employee-Turnover.git)
 
 [Employee Turnover Analysis](https://www.example.com)
 
