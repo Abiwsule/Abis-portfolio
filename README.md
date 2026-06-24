@@ -9,6 +9,6 @@ I have built hands on projects using tools like Excel, SQL and Power BI to analy
 
 [Employee Turnover Analysis](https://github.com/Abiwsule/Employee-Turnover.git)
 
-[Data Cleaning Using SQL]([https://www.example.com](https://github.com/Abiwsule/Datacleaningproject/blob/5e495fbde8b8b585c1a006d8049373ec306e16cd/README.md))
+[Data Cleaning Using SQL](https://github.com/Abiwsule/Datacleaningproject/blob/5e495fbde8b8b585c1a006d8049373ec306e16cd/README.md)
 
 
