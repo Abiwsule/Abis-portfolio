@@ -1,4 +1,5 @@
 ## 👋🏾Introducing myself
+
 Hi, my name is **Abi**.
 
 I'm a former Product Designer with over four years of experience, now transitioning into Data Analytics. I have experience collecting, analysing, and interpreting both qualitative and quantitative data to identify trends and support informed decision making. I'm now focused on using data to uncover actionable insights, measure impact, and drive strategic business decisions.
@@ -9,10 +10,10 @@ To strengthen my technical skills, I have completed a range of hands-on data ana
 
 Please see my projects below:
 
-[Employee Turnover Analysis](https://github.com/Abiwsule/Employee-Turnover.git)
+[**Employee Turnover Analysis**](https://github.com/Abiwsule/Employee-Turnover.git)
 
-[World Life Expectancy](https://google.com)
+[**World Life Expectancy Analysis**](https://github.com/Abiwsule/World-Life-Expectancy.git)
 
-[Data Cleaning Using SQL](https://github.com/Abiwsule/Datacleaningproject/blob/5e495fbde8b8b585c1a006d8049373ec306e16cd/README.md)
+[**Customer Data Cleaning**](https://github.com/Abiwsule/Datacleaningproject/blob/5e495fbde8b8b585c1a006d8049373ec306e16cd/README.md)
 
 
